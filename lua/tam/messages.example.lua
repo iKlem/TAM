@@ -14,7 +14,7 @@ Informations      :
       etc...
     }
 
-  For the LANG values, see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+  For the LANG values, see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 with all language in Garry's Mod
 
   After created your file you need to restart the server to take the changes.
 
