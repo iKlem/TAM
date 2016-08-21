@@ -1,5 +1,5 @@
 # TAM - Tranlated Automatic Messages
-###### Current version : 1.0.0
+###### Current version (stable) : 1.0.0
 
 ## Description
 __TAM__ is a server addon for the game [Garry's Mod](http://www.garrysmod.com/).  
@@ -14,7 +14,7 @@ You can clone the addon in the addons folder on your server :
 
     git clone https://github.com/iKlem/TAM.git
 
-Or you can download the last stable version with this link : [No stable version at the moment]()
+Or you can download the last stable version with this link : [Stable version](https://github.com/iKlem/TAM/releases/latest)
 
 ## Create/Change the messages
 The template file is the `messages.example.lua` and have a little explanation on what to do.  
