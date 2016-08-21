@@ -13,8 +13,8 @@ TAM = TAM or {}
 -- FUNCTIONS
 function TAM.getUserLang(ply, userLang, cpt)
   if not ply:IsBot() then
-    if(TAM.messages[userLang] != nil) then
-      if(cpt > table.getn(TAM.messages[userLang])) then
+    if TAM.messages[userLang] != nil then
+      if cpt > table.getn(TAM.messages[userLang]) then
         cpt = 1
       end
       messageObj = TAM.messages[userLang][cpt]

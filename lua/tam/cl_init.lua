@@ -15,7 +15,7 @@ function printMessage()
 end
 
 function sendLang(cpt)
-  if (cpt == 1) then time = 5 else time = 0 end
+  if cpt == 1 then time = 5 else time = 0 end
   timer.Simple(time, function()
     net.Start("OnClientConnecting")
       net.WriteEntity(LocalPlayer())
